@@ -27,7 +27,7 @@ if(!isset($_SESSION["usuario"])){
         <div class="container mt-3 bg-light">
 
             <br>
-            <h1 align='center'>Listado de emails</h1><hr><br>
+            <h1 align='center'>Listado de emails enviados</h1><hr><br>
             <div class="col-lg-12">
         <div class="table-responsive">
           <table
@@ -40,7 +40,7 @@ if(!isset($_SESSION["usuario"])){
                 
                 <th>ID</th>
                 <th>Fecha de ingreso</th>
-                <th>Nombre y Apellido</th>
+                <th>Nombre y Apellido del paciente</th>
                 <th>Documento</th>
                 <th>Nro. de afiliado</th>
                 <th>Obra Social</th>

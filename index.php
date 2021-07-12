@@ -63,9 +63,17 @@
                 <main>
                     <div class="container">
                         <div class="row justify-content-center">
-                            <div class="col-lg-5">
+                            <div class="col-lg-6">
                                 <div class="card shadow-lg border-0 rounded-lg mt-5">
-                                    <div class="card-header"><h3 class="text-center font-weight-light my-4">Ingreso al sistema<br>Envío de Emails - OS</h3></div>
+                                <div class="p-3">
+                                    <div class="text-center">
+                                    <a class="navbar-brand" href="/emails_os/php/enviar_email_os.php">
+                                        <img src="/emails_os/img/logo.png" height="80" class="d-inline-block align-top" alt="">              
+                                    </a>  
+                                        <h1 class="h4 text-gray-900 mb-1  mt-0"><br>Sistema de Envío de emails</h1>
+                                        <h3 class="h5 text-gray-900 mb-1 ">Secretaría Administrativa | Hospital de Clínicas</h3>
+                                    </div>
+                                </div>
                                     <div class="card-body">
                                         <form method="POST" action="<?php echo $_SERVER['PHP_SELF']; ?>">
                                             <div class="form-group">
