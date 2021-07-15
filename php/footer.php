@@ -2,12 +2,12 @@
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <!-- Include all compiled plugins (below), or include individual files as needed -->
-        <script src="/ts_hclinicas/js/bootstrap.min.js"></script>
+        <script src="/emails_os/js/bootstrap.min.js"></script>
         <!-- Include all compiled plugins (below), or include individual files as needed -->
         <!-- datatables JS -->
-        <script type="text/javascript" src="/ts_hclinicas/vendor/datatables/datatables.min.js"></script>    
+        <script type="text/javascript" src="/emails_os/vendor/datatables/datatables.min.js"></script>    
         <!-- código propio JS --> 
-        <script type="text/javascript" src="/ts_hclinicas/js/main.js"></script>  
+        <script type="text/javascript" src="/emails_os/js/main.js"></script>  
      
 
     <footer class="font-small mt-5" style="background-color: #002752; bottom: 50px; width: 100%; height: 55px">
